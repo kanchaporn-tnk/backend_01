@@ -1,1 +1,7 @@
-print("hello")
+print("hello python")
+print(" kanchaporn boontham")
+print("za")
+print("19")
+print("17")
+print("67319010059")
+print("Make dessert")
